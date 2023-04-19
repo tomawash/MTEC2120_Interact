@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/PROJECT/FeatherMaterial.mat.meta
 guid: 89cfb3ebf804af640a0a930f8182c93a
+========
+guid: b9537eb6c3f96404c8673ed3b1f7abb5
+>>>>>>>> c979ca35862f0e6791aa3283f274c15d6d906ac4:Assets/PROJECT/New Material.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
